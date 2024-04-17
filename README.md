@@ -3,8 +3,11 @@
 Ez a repozitórium a 2024. tavaszi Tudományos Diákköri Konferencia (TDK) dolgozatom során felhasznált adatokat és kódokat tartalmazza.
 
 A helicopter_readindata kód a több forrásból származó nyers adatokat olvassa be, transzformálja, majd fűzi egy adatbázisba.
+
 A helicopter.xlsx fájl a helicopter_readindata által előállított végső adatbázis, amit a dolgozatban használtam. 
+
 A helicopter_regressions kód a dolgozatban bemutatott regressziós becsléseket állítja elő.
+
 A helicopter_plots R fájl a dolgozatban bemutatott ábrákat készíti el.
 
 ## A nyers adatok beolvasásához az alábbi lépésekre van szükség:
